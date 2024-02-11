@@ -21,12 +21,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-        with:
-          branch: gh-pages
           
       - uses: actions/checkout@v4
         with:
-          name: pietercolpaert/DCAT-AP-Dumps-To-Feeds
+          repository: pietercolpaert/DCAT-AP-Dumps-To-Feeds
           path: dumpstofeed
 
 #      - name: ⚙ Setting up the nodejs env
@@ -37,8 +35,13 @@ jobs:
         run: |
           cd dumpstofeed ; npm install ; cd ..
           bash dumpstofeed/workflow-sweden.sh
-           
+      - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          add: "['state-of-sweden' 'sweden']"
+          author_name: Pieter Colpaert
+          author_email: pieter.colpaert@ugent.be
+          committer_name: Pieter’s bot
       - name: 🚀 Deploy 
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build
+          branch: main
