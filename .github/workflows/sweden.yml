@@ -35,8 +35,8 @@ jobs:
 
       - name: 🏗 constructing the files for gh pages
         run: |
-          cd dumptofeed ; npm install ; cd ..
-          bash dumptofeed/workflow-sweden.sh
+          cd dumpstofeed ; npm install ; cd ..
+          bash dumpstofeed/workflow-sweden.sh
            
       - name: 🚀 Deploy 
         uses: JamesIves/github-pages-deploy-action@v4
