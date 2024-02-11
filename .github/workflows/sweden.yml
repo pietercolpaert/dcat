@@ -30,20 +30,20 @@ jobs:
 
       - name: ⚙ Setting up ts-node
         run: |
-          npm install -g typescript
+          npm install -g typescript ts-node
 
       - name: 🏗 constructing the files for gh pages
         run: |
           cd dumpstofeed ; npm install ; cd ..
           bash dumpstofeed/workflow-sweden.sh
-      - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+      - name: 🚀 Deploy 
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
           add: "state-of-sweden sweden"
           author_name: Pieter Colpaert
           author_email: pieter.colpaert@ugent.be
           committer_name: Pieter’s bot
-      - name: 🚀 Deploy 
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: main
-          folder: .
+#        uses: JamesIves/github-pages-deploy-action@v4
+#        with:
+#          branch: main
+#          folder: .
