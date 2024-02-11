@@ -22,14 +22,15 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
           
-      - uses: actions/checkout@v4
+      - name: Cloning DCAT-AP-Dumps-To-Feeds
+        uses: actions/checkout@v4
         with:
           repository: pietercolpaert/DCAT-AP-Dumps-To-Feeds
           path: dumpstofeed
 
-#      - name: ⚙ Setting up the nodejs env
-#        run: |
-#          echo I’ll probably need to set up more so I’m able to run ts-node?
+      - name: ⚙ Setting up ts-node
+        run: |
+          npm install -g typescript
 
       - name: 🏗 constructing the files for gh pages
         run: |
@@ -45,3 +46,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: main
+          folder: .
