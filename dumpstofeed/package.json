@@ -1,0 +1,21 @@
+{
+  "name": "sweden-dcat-ap-feeds",
+  "version": "1.0.0",
+  "description": "Does change detection of DCAT-AP entities in consecutive data dumps and transforms these into an ActivityStreams change feed with the entities in a named graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter Colpaert",
+  "license": "MIT",
+  "dependencies": {
+    "@rdfjs/normalize": "^2.0.0",
+    "@types/n3": "^1.16.4",
+    "commander": "^12.0.0",
+    "extract-cbd-shape": "^0.0.3",
+    "level": "^8.0.1",
+    "n3": "^1.17.2",
+    "rdf-canonize": "^4.0.1",
+    "rdf-dereference": "^2.2.0"
+  }
+}
