@@ -39,7 +39,15 @@ jobs:
           cd dumpstofeed ; npm install ;
           bash workflow-sweden.sh
           cd .. ; mv dumpstofeed/state-of-sweden . ; mv  dumpstofeed/sweden .
-          
+
+      - name: 🏗 Constructing the files for Flanders
+        run: |
+              [ -d state-of-flanders ] && mv state-of-flanders dumpstofeed/ ;
+              [ -d flanders ] && mv flanders dumpstofeed ;
+              cd dumpstofeed ; npm install ;
+              bash workflow-flanders.sh
+              cd .. ; mv dumpstofeed/state-of-flanders . ; mv  dumpstofeed/flanders .
+     
       - name: 🚀 Deploy 
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
         with:
