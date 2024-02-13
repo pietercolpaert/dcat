@@ -1,0 +1,21 @@
+@prefix as: <https://www.w3.org/ns/activitystreams#>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix tree: <https://w3id.org/tree#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ldes: <https://w3id.org/ldes#>.
+<feed> a ldes:EventStream ;
+    ldes:timestampPath as:published ;
+    ldes:versionOfPath as:object ;
+    tree:view <feed.ttl> .
+<feed.ttl> tree:relation [
+        a tree:GreaterThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value "2024-02-13T00:00:00Z"^^xsd:dateTime ;
+        tree:node <2024-02-13.trig>
+    ] ,
+    [
+        a tree:LessThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value  "2024-02-13T23:59:99Z"^^xsd:dateTime ;
+        tree:node <2024-02-13.trig>
+    ] .
