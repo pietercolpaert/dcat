@@ -1,0 +1,47 @@
+name: Flanders
+
+# Controls when the workflow will run
+on:
+  schedule:
+    # should run every morning at 6 am
+    - cron: '0 6 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+          
+      - name: Cloning DCAT-AP-Dumps-To-Feeds
+        uses: actions/checkout@v4
+        with:
+          repository: pietercolpaert/DCAT-AP-Dumps-To-Feeds
+          path: dumpstofeed
+
+      - name: ⚙ Setting up ts-node and tsc
+        run: |
+          npm install -g typescript ts-node
+
+      - name: 🏗 constructing the files for gh pages
+        run: |
+          [ -d state-of-flanders ] && mv state-of-flanders dumpstofeed/ ;
+          [ -d flanders ] && mv flanders dumpstofeed ;
+          cd dumpstofeed ; npm install ;
+          bash workflow-flanders.sh
+          cd .. ; mv dumpstofeed/state-of-flanders . ; mv  dumpstofeed/flanders .
+          
+      - name: 🚀 Deploy 
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          add: "state-of-flanders flanders"
+          author_name: Pieter Colpaert
+          author_email: pieter.colpaert@ugent.be
+          committer_name: Pieter’s bot
