@@ -37,6 +37,7 @@ jobs:
           cd dumpstofeed ; npm install ;
           bash workflow-flanders.sh
           cd .. ; mv dumpstofeed/state-of-flanders . ; mv  dumpstofeed/flanders .
+          gzip flanders/*.trig # makes sure the files are zipped before pushing to the repo: some files would be too big for git otherwise -- this means we will not be able to offer these over github pages though.
           
       - name: 🚀 Deploy 
         uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
