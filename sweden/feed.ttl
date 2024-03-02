@@ -268,3 +268,16 @@
         tree:value  "2024-03-01T23:59:99Z"^^xsd:dateTime ;
         tree:node <2024-03-01.trig>
     ] .
+
+<feed.ttl> tree:relation [
+        a tree:GreaterThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value "2024-03-02T00:00:00Z"^^xsd:dateTime ;
+        tree:node <2024-03-02.trig>
+    ] ,
+    [
+        a tree:LessThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value  "2024-03-02T23:59:99Z"^^xsd:dateTime ;
+        tree:node <2024-03-02.trig>
+    ] .
