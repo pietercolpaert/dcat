@@ -9202,7 +9202,7 @@ _:b0__65430 <http://schema.theodi.org/odrs#attributionText> "Sveriges Kommuner o
 }
 
 <feed> <https://w3id.org/tree#member> <https://catalog.skl.se/store/1/resource/186#remove-2024-03-19T06%3A04%3A05.626Z>.
-<https://catalog.skl.se/store/1/resource/186#remove-2024-03-19T06%3A04%3A05.626Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.skl.se/store/1/resource/186#remove-2024-03-19T06%3A04%3A05.626Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.skl.se/store/1/resource/186>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-19T06:04:05.626Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

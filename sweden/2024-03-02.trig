@@ -13226,57 +13226,57 @@ _:b0__72897 <http://www.w3.org/ns/dcat#hadRole> <http://inspire.ec.europa.eu/met
 }
 
 <feed> <https://w3id.org/tree#member> <http://api.kolada.se/v2/kpi/N00000#remove-2024-03-02T06%3A03%3A36.493Z>.
-<http://api.kolada.se/v2/kpi/N00000#remove-2024-03-02T06%3A03%3A36.493Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://api.kolada.se/v2/kpi/N00000#remove-2024-03-02T06%3A03%3A36.493Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://api.kolada.se/v2/kpi/N00000>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.493Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://api.kolada.se/v2/kpi/N00000_json#remove-2024-03-02T06%3A03%3A36.493Z>.
-<http://api.kolada.se/v2/kpi/N00000_json#remove-2024-03-02T06%3A03%3A36.493Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://api.kolada.se/v2/kpi/N00000_json#remove-2024-03-02T06%3A03%3A36.493Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://api.kolada.se/v2/kpi/N00000_json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.493Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-02T06%3A03%3A36.836Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-02T06%3A03%3A36.836Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-02T06%3A03%3A36.836Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.836Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-02T06%3A03%3A36.841Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.841Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-02T06%3A03%3A36.841Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.841Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-02T06%3A03%3A36.841Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.841Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-02T06%3A03%3A36.841Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-02T06%3A03%3A36.841Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.841Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523dataset#remove-2024-03-02T06%3A03%3A36.849Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523dataset#remove-2024-03-02T06%3A03%3A36.849Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523dataset#remove-2024-03-02T06%3A03%3A36.849Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523distribution#remove-2024-03-02T06%3A03%3A36.849Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523distribution#remove-2024-03-02T06%3A03%3A36.849Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523distribution#remove-2024-03-02T06%3A03%3A36.849Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/2.0.2/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523dataset#remove-2024-03-02T06%3A03%3A36.850Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523dataset#remove-2024-03-02T06%3A03%3A36.850Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523dataset#remove-2024-03-02T06%3A03%3A36.850Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.850Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523distribution#remove-2024-03-02T06%3A03%3A36.850Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523distribution#remove-2024-03-02T06%3A03%3A36.850Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523distribution#remove-2024-03-02T06%3A03%3A36.850Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/1.0.0/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-02T06:03:36.850Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

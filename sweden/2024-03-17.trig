@@ -10722,12 +10722,12 @@ _:b0__51607 <http://www.w3.org/ns/dcat#endDate> "2018-05-11"^^<http://www.w3.org
 }
 
 <feed> <https://w3id.org/tree#member> <http://api.kolada.se/v2/kpi/U07418#remove-2024-03-17T06%3A03%3A56.934Z>.
-<http://api.kolada.se/v2/kpi/U07418#remove-2024-03-17T06%3A03%3A56.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://api.kolada.se/v2/kpi/U07418#remove-2024-03-17T06%3A03%3A56.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://api.kolada.se/v2/kpi/U07418>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-17T06:03:56.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://api.kolada.se/v2/kpi/U07418_json#remove-2024-03-17T06%3A03%3A56.938Z>.
-<http://api.kolada.se/v2/kpi/U07418_json#remove-2024-03-17T06%3A03%3A56.938Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://api.kolada.se/v2/kpi/U07418_json#remove-2024-03-17T06%3A03%3A56.938Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://api.kolada.se/v2/kpi/U07418_json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-17T06:03:56.939Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

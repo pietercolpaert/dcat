@@ -8552,22 +8552,22 @@ _:b0__93956 <http://www.w3.org/ns/dcat#hadRole> <http://inspire.ec.europa.eu/met
 }
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523dataset#remove-2024-03-05T06%3A04%3A07.436Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523dataset#remove-2024-03-05T06%3A04%3A07.436Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523dataset#remove-2024-03-05T06%3A04%3A07.436Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-05T06:04:07.436Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523distribution#remove-2024-03-05T06%3A04%3A07.441Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523distribution#remove-2024-03-05T06%3A04%3A07.441Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523distribution#remove-2024-03-05T06%3A04%3A07.441Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/folkbokforingsuppgifter-for-offentliga-aktorer/3.0.3/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-05T06:04:07.441Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523dataset#remove-2024-03-05T06%3A04%3A07.441Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523dataset#remove-2024-03-05T06%3A04%3A07.441Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523dataset#remove-2024-03-05T06%3A04%3A07.441Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-05T06:04:07.441Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523distribution#remove-2024-03-05T06%3A04%3A07.442Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523distribution#remove-2024-03-05T06%3A04%3A07.442Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523distribution#remove-2024-03-05T06%3A04%3A07.442Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/ombudshantering/2.0.0/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-05T06:04:07.442Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

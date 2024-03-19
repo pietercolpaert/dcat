@@ -9865,27 +9865,27 @@ _:b0__33531 <http://schema.theodi.org/odrs#copyrightHolder> <http://dataportal.s
 }
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-04T06%3A17%3A30.105Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-04T06%3A17%3A30.105Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json#remove-2024-03-04T06%3A17%3A30.105Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-04T06:17:30.105Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-04T06%3A17%3A30.110Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatbinkomst.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-04T06:17:30.110Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-04T06%3A17%3A30.110Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-04T06:17:30.110Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-04T06%3A17%3A30.110Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/TVSatblan.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-04T06:17:30.110Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-04T06%3A17%3A30.110Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json#remove-2024-03-04T06%3A17%3A30.110Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/tand-allmant/meta.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-04T06:17:30.110Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

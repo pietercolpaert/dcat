@@ -11286,27 +11286,27 @@ _:b0__55311 <http://www.w3.org/ns/dcat#hadRole> <http://inspire.ec.europa.eu/met
 }
 
 <feed> <https://w3id.org/tree#member> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo#remove-2024-02-28T06%3A04%3A09.152Z>.
-<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo#remove-2024-02-28T06%3A04%3A09.152Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo#remove-2024-02-28T06%3A04%3A09.152Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-28T06:04:09.152Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/5807ef80-bf73-4ef5-b137-4b2d546ba9a5#remove-2024-02-28T06%3A04%3A09.157Z>.
-<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/5807ef80-bf73-4ef5-b137-4b2d546ba9a5#remove-2024-02-28T06%3A04%3A09.157Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/5807ef80-bf73-4ef5-b137-4b2d546ba9a5#remove-2024-02-28T06%3A04%3A09.157Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/5807ef80-bf73-4ef5-b137-4b2d546ba9a5>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-28T06:04:09.157Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/b43e99f0-8be1-4136-90f6-313fd312240a#remove-2024-02-28T06%3A04%3A09.157Z>.
-<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/b43e99f0-8be1-4136-90f6-313fd312240a#remove-2024-02-28T06%3A04%3A09.157Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/b43e99f0-8be1-4136-90f6-313fd312240a#remove-2024-02-28T06%3A04%3A09.157Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-storsthlm.dataplattform.se/dataset/skolmaten-pa-lidingo/resource/b43e99f0-8be1-4136-90f6-313fd312240a>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-28T06:04:09.157Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523dataset#remove-2024-02-28T06%3A04%3A09.274Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523dataset#remove-2024-02-28T06%3A04%3A09.274Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523dataset#remove-2024-02-28T06%3A04%3A09.274Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-28T06:04:09.274Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523distribution#remove-2024-02-28T06%3A04%3A09.275Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523distribution#remove-2024-02-28T06%3A04%3A09.275Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523distribution#remove-2024-02-28T06%3A04%3A09.275Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/beskattningsengagemang/1.0.3/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-28T06:04:09.275Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

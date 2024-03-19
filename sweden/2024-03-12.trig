@@ -9460,137 +9460,137 @@ _:b0__54108 <https://schema.org/startDate> "1993"^^<http://www.w3.org/2001/XMLSc
 }
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/04f2e2c0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.191Z>.
-<https://opendata-catalog.smhi.se/md/04f2e2c0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.191Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/04f2e2c0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.191Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/04f2e2c0-b488-11ea-8f8b-197eadf2f6fe>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.191Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/29d2c7e0-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.195Z>.
-<https://opendata-catalog.smhi.se/md/29d2c7e0-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.195Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/29d2c7e0-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.195Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/29d2c7e0-b47e-11ea-8f8b-197eadf2f6fe>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.195Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/59f7b7a0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z>.
-<https://opendata-catalog.smhi.se/md/59f7b7a0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/59f7b7a0-b488-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/59f7b7a0-b488-11ea-8f8b-197eadf2f6fe>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.196Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/67892fd0-b487-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z>.
-<https://opendata-catalog.smhi.se/md/67892fd0-b487-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/67892fd0-b487-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.196Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/67892fd0-b487-11ea-8f8b-197eadf2f6fe>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.196Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/aca69a20-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.197Z>.
-<https://opendata-catalog.smhi.se/md/aca69a20-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/aca69a20-b47e-11ea-8f8b-197eadf2f6fe#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/aca69a20-b47e-11ea-8f8b-197eadf2f6fe>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.197Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/c4e0f85c-6637-488b-8d96-080e6d680d1c#remove-2024-03-12T06%3A03%3A43.197Z>.
-<https://opendata-catalog.smhi.se/md/c4e0f85c-6637-488b-8d96-080e6d680d1c#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/c4e0f85c-6637-488b-8d96-080e6d680d1c#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/c4e0f85c-6637-488b-8d96-080e6d680d1c>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.197Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-catalog.smhi.se/md/efa3e4e0-3415-48fa-a1cf-f54d01ede322#remove-2024-03-12T06%3A03%3A43.197Z>.
-<https://opendata-catalog.smhi.se/md/efa3e4e0-3415-48fa-a1cf-f54d01ede322#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-catalog.smhi.se/md/efa3e4e0-3415-48fa-a1cf-f54d01ede322#remove-2024-03-12T06%3A03%3A43.197Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-catalog.smhi.se/md/efa3e4e0-3415-48fa-a1cf-f54d01ede322>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.197Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Havsomraden_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-download.smhi.se/svar/Havsomraden_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Havsomraden_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Havsomraden_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/SVARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-download.smhi.se/svar/SVARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/SVARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/SVARO_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/VARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-download.smhi.se/svar/VARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/VARO_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/VARO_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Vattendragslinjer_natverk_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-download.smhi.se/svar/Vattendragslinjer_natverk_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Vattendragslinjer_natverk_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Vattendragslinjer_natverk_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Vattenytor_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-download.smhi.se/svar/Vattenytor_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Vattenytor_2016.zip#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Vattenytor_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.198Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.198Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Ackumulerade_uppstromsomraden_per_vattenforekomst_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Delavrinningsomraden_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Havsomraden_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Huvudavrinningsomraden_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.199Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattendragslinjer_natverk_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.199Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wfs?service=wfs&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.200Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wms?service=wms&request=getcapabilities#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattenytor_2016/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.200Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten_RiverBasin/HY.PhysicalWaters.Catchments/wfs?service=wfs&request=GetFeature&typeNames=SMHI_vatten_RiverBasin:HY.PhysicalWaters.Catchments&outputFormat=SHAPE-ZIP&srsName=EPSG:3006&format_options=charset:utf-8#remove-2024-03-12T06%3A03%3A43.200Z>.
-<https://opendata-view.smhi.se/SMHI_vatten_RiverBasin/HY.PhysicalWaters.Catchments/wfs?service=wfs&request=GetFeature&typeNames=SMHI_vatten_RiverBasin:HY.PhysicalWaters.Catchments&outputFormat=SHAPE-ZIP&srsName=EPSG:3006&format_options=charset:utf-8#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten_RiverBasin/HY.PhysicalWaters.Catchments/wfs?service=wfs&request=GetFeature&typeNames=SMHI_vatten_RiverBasin:HY.PhysicalWaters.Catchments&outputFormat=SHAPE-ZIP&srsName=EPSG:3006&format_options=charset:utf-8#remove-2024-03-12T06%3A03%3A43.200Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten_RiverBasin/HY.PhysicalWaters.Catchments/wfs?service=wfs&request=GetFeature&typeNames=SMHI_vatten_RiverBasin:HY.PhysicalWaters.Catchments&outputFormat=SHAPE-ZIP&srsName=EPSG:3006&format_options=charset:utf-8>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-12T06:03:43.200Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

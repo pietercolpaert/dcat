@@ -7565,27 +7565,27 @@ _:b0__82531 <http://www.w3.org/ns/dcat#endDate> "1975-12-31"^^<http://www.w3.org
 }
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.json#remove-2024-03-03T06%3A03%3A51.922Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.json#remove-2024-03-03T06%3A03%3A51.922Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.json#remove-2024-03-03T06%3A03%3A51.922Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-03T06:03:51.922Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.xlsx#remove-2024-03-03T06%3A03%3A51.927Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.xlsx#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.xlsx#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutKon.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-03T06:03:51.927Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.json#remove-2024-03-03T06%3A03%3A51.927Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.json#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.json#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-03T06:03:51.927Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.xlsx#remove-2024-03-03T06%3A03%3A51.927Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.xlsx#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.xlsx#remove-2024-03-03T06%3A03%3A51.927Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/ASEBeslutLan.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-03T06:03:51.927Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/meta.json#remove-2024-03-03T06%3A03%3A51.928Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/meta.json#remove-2024-03-03T06%3A03%3A51.928Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/meta.json#remove-2024-03-03T06%3A03%3A51.928Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-beslut-lan/meta.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-03T06:03:51.928Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

@@ -16744,342 +16744,342 @@ _:b0__24284 <http://www.w3.org/ns/dcat#hadRole> <http://inspire.ec.europa.eu/met
 }
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/1#remove-2024-02-23T06%3A04%3A05.057Z>.
-<http://www7.slv.se/datasets/resource/1#remove-2024-02-23T06%3A04%3A05.057Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/1#remove-2024-02-23T06%3A04%3A05.057Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.057Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/10#remove-2024-02-23T06%3A04%3A05.062Z>.
-<http://www7.slv.se/datasets/resource/10#remove-2024-02-23T06%3A04%3A05.062Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/10#remove-2024-02-23T06%3A04%3A05.062Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/10>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.062Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/4#remove-2024-02-23T06%3A04%3A05.062Z>.
-<http://www7.slv.se/datasets/resource/4#remove-2024-02-23T06%3A04%3A05.062Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/4#remove-2024-02-23T06%3A04%3A05.062Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/4>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.062Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/5#remove-2024-02-23T06%3A04%3A05.063Z>.
-<http://www7.slv.se/datasets/resource/5#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/5#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/5>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/6#remove-2024-02-23T06%3A04%3A05.063Z>.
-<http://www7.slv.se/datasets/resource/6#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/6#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/6>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/7#remove-2024-02-23T06%3A04%3A05.063Z>.
-<http://www7.slv.se/datasets/resource/7#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/7#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/7>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <http://www7.slv.se/datasets/resource/9#remove-2024-02-23T06%3A04%3A05.063Z>.
-<http://www7.slv.se/datasets/resource/9#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<http://www7.slv.se/datasets/resource/9#remove-2024-02-23T06%3A04%3A05.063Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <http://www7.slv.se/datasets/resource/9>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.063Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/01e81af2-aa10-44e0-b364-961d99c6de0a#remove-2024-02-23T06%3A04%3A05.167Z>.
-<https://resources.stockholm.se/data/01e81af2-aa10-44e0-b364-961d99c6de0a#remove-2024-02-23T06%3A04%3A05.167Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/01e81af2-aa10-44e0-b364-961d99c6de0a#remove-2024-02-23T06%3A04%3A05.167Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/01e81af2-aa10-44e0-b364-961d99c6de0a>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.167Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#remove-2024-02-23T06%3A04%3A05.168Z>.
-<https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#remove-2024-02-23T06%3A04%3A05.168Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#remove-2024-02-23T06%3A04%3A05.168Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.168Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z>.
-<https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/02c3bd00-944e-4cde-af4c-0ebd3e573fa4#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.169Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#remove-2024-02-23T06%3A04%3A05.169Z>.
-<https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.169Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z>.
-<https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/134cefc0-c3f4-4dbc-a706-10fbcc45e480#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.169Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/16101fbf-f1c2-455e-8c1c-e1d0eb7d3c36#remove-2024-02-23T06%3A04%3A05.169Z>.
-<https://resources.stockholm.se/data/16101fbf-f1c2-455e-8c1c-e1d0eb7d3c36#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/16101fbf-f1c2-455e-8c1c-e1d0eb7d3c36#remove-2024-02-23T06%3A04%3A05.169Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/16101fbf-f1c2-455e-8c1c-e1d0eb7d3c36>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.169Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/1a43a05d-4647-45b9-ba4c-2c6edd7cb37d#remove-2024-02-23T06%3A04%3A05.170Z>.
-<https://resources.stockholm.se/data/1a43a05d-4647-45b9-ba4c-2c6edd7cb37d#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/1a43a05d-4647-45b9-ba4c-2c6edd7cb37d#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/1a43a05d-4647-45b9-ba4c-2c6edd7cb37d>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/21272224-2027-4120-9dcf-916752814e9f#remove-2024-02-23T06%3A04%3A05.170Z>.
-<https://resources.stockholm.se/data/21272224-2027-4120-9dcf-916752814e9f#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/21272224-2027-4120-9dcf-916752814e9f#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/21272224-2027-4120-9dcf-916752814e9f>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/22212fd2-7a18-4247-85c3-c3311c68971d#remove-2024-02-23T06%3A04%3A05.170Z>.
-<https://resources.stockholm.se/data/22212fd2-7a18-4247-85c3-c3311c68971d#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/22212fd2-7a18-4247-85c3-c3311c68971d#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/22212fd2-7a18-4247-85c3-c3311c68971d>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#remove-2024-02-23T06%3A04%3A05.170Z>.
-<https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#remove-2024-02-23T06%3A04%3A05.170Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.171Z>.
-<https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/249d3f7d-0330-4915-8d55-a68762595b8e#HTTP:OGC:WMS/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.171Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#remove-2024-02-23T06%3A04%3A05.171Z>.
-<https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.171Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z>.
-<https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/2c3afe85-7f2a-4318-b47e-756793d204a2#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.171Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#remove-2024-02-23T06%3A04%3A05.171Z>.
-<https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.171Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z>.
-<https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.171Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/3f73ee0f-00a1-442c-93e2-83ef70e7b476#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.171Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/44878082-85a0-465c-ac02-4e4031c85322#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:ESRI+Portal-URL/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/478e7aa6-ab6b-4de5-a755-dc851b1b12cf#HTTP:OGC:WMS/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z>.
-<https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.172Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/4b892d65-8c4b-463a-b394-ee3d084352d4#HTTP:ESRI+Portal-URL/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.172Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/535095fd-3b40-4f2b-bc7f-722af2b842af#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/535095fd-3b40-4f2b-bc7f-722af2b842af#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/535095fd-3b40-4f2b-bc7f-722af2b842af#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/535095fd-3b40-4f2b-bc7f-722af2b842af>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:ESRI+Portal-URL/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/59db0697-acb2-45ea-845f-6dcabe57b3b6#HTTP:OGC:WMS/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.173Z>.
-<https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.173Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/5f0474ea-5ea5-4fd9-9158-797ec3a0b145#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.173Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#remove-2024-02-23T06%3A04%3A05.174Z>.
-<https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.174Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z>.
-<https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/615e1a6d-5863-4dcd-bb4e-a376502ab444#HTTP:Information/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.174Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#remove-2024-02-23T06%3A04%3A05.174Z>.
-<https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.174Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z>.
-<https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#HTTP:Information/1#remove-2024-02-23T06%3A04%3A05.174Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/79f296fa-beca-4709-9678-f5e55df0e8ec#HTTP:Information/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.174Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/7dd9f926-abc0-4c62-b0e8-70957dbf7829#remove-2024-02-23T06%3A04%3A05.175Z>.
-<https://resources.stockholm.se/data/7dd9f926-abc0-4c62-b0e8-70957dbf7829#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/7dd9f926-abc0-4c62-b0e8-70957dbf7829#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/7dd9f926-abc0-4c62-b0e8-70957dbf7829>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.175Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#remove-2024-02-23T06%3A04%3A05.175Z>.
-<https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.175Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.175Z>.
-<https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/8051da6f-2e2d-4117-8a58-22195e703715#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.175Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/8d1e238b-83e9-44d6-8e8e-0c766d698dda#remove-2024-02-23T06%3A04%3A05.175Z>.
-<https://resources.stockholm.se/data/8d1e238b-83e9-44d6-8e8e-0c766d698dda#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/8d1e238b-83e9-44d6-8e8e-0c766d698dda#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/8d1e238b-83e9-44d6-8e8e-0c766d698dda>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.175Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/8f9b03fd-7f6b-4697-a13b-20eda62c0cb8#remove-2024-02-23T06%3A04%3A05.175Z>.
-<https://resources.stockholm.se/data/8f9b03fd-7f6b-4697-a13b-20eda62c0cb8#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/8f9b03fd-7f6b-4697-a13b-20eda62c0cb8#remove-2024-02-23T06%3A04%3A05.175Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/8f9b03fd-7f6b-4697-a13b-20eda62c0cb8>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.175Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#remove-2024-02-23T06%3A04%3A05.176Z>.
-<https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.176Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z>.
-<https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/9321d468-0b2b-4d0c-90ef-8545d4dbe12c#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.176Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#remove-2024-02-23T06%3A04%3A05.176Z>.
-<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.176Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:ESRI+Portal-URL/2#remove-2024-02-23T06%3A04%3A05.176Z>.
-<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:ESRI+Portal-URL/2#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:ESRI+Portal-URL/2#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:ESRI+Portal-URL/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.176Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z>.
-<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.176Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/a0a8e656-2439-498f-9b7f-95a18fc4a688#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.176Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/a643076f-98e9-4f2a-80be-d64d35624a6b#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/a643076f-98e9-4f2a-80be-d64d35624a6b#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/a643076f-98e9-4f2a-80be-d64d35624a6b#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/a643076f-98e9-4f2a-80be-d64d35624a6b>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/afff8997-4a1c-4fcc-8eab-09053de685d6#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/b68aa47c-b7b1-46c7-a000-8ae07a032ada#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/b68aa47c-b7b1-46c7-a000-8ae07a032ada#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/b68aa47c-b7b1-46c7-a000-8ae07a032ada#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/b68aa47c-b7b1-46c7-a000-8ae07a032ada>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z>.
-<https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.177Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/bd6e6421-d4f4-4bf3-8efe-ba8c0b6adb7e#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.177Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#remove-2024-02-23T06%3A04%3A05.178Z>.
-<https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.178Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.178Z>.
-<https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#HTTP:ESRI+Portal-URL/1#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/c3314a73-55d8-4801-bdc8-83866e96f350#HTTP:ESRI+Portal-URL/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.178Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#remove-2024-02-23T06%3A04%3A05.178Z>.
-<https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#remove-2024-02-23T06%3A04%3A05.178Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.178Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z>.
-<https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/e39b0e6c-6eaa-445b-b306-d5a033cfff4c#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#remove-2024-02-23T06%3A04%3A05.179Z>.
-<https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z>.
-<https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/e88eedf6-2c00-4386-85ff-f6de18ae3419#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/eada0c29-d2e0-43a3-85e7-f1e16cd768cf#remove-2024-02-23T06%3A04%3A05.179Z>.
-<https://resources.stockholm.se/data/eada0c29-d2e0-43a3-85e7-f1e16cd768cf#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/eada0c29-d2e0-43a3-85e7-f1e16cd768cf#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/eada0c29-d2e0-43a3-85e7-f1e16cd768cf>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#remove-2024-02-23T06%3A04%3A05.179Z>.
-<https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#remove-2024-02-23T06%3A04%3A05.179Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.180Z>.
-<https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#HTTP:OGC:WMS/2#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/f73a52cc-e35d-4320-abe4-ae6640eb26fa#HTTP:OGC:WMS/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.180Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#remove-2024-02-23T06%3A04%3A05.180Z>.
-<https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.180Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z>.
-<https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/fd6f5e6b-50bc-40ab-a186-b21fcde26290#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.180Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#remove-2024-02-23T06%3A04%3A05.180Z>.
-<https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.180Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z>.
-<https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#HTTP:OGC:WMS/1#remove-2024-02-23T06%3A04%3A05.180Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/ffa47371-8324-4c26-9482-631bca744519#HTTP:OGC:WMS/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-23T06:04:05.180Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

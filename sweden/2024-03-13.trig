@@ -11892,72 +11892,72 @@ _:b0__58396 <https://schema.org/startDate> "1993"^^<http://www.w3.org/2001/XMLSc
 }
 
 <feed> <https://w3id.org/tree#member> <https://arbetsformedlingen.se/#datasetYrkesprognoser#remove-2024-03-13T06%3A04%3A07.714Z>.
-<https://arbetsformedlingen.se/#datasetYrkesprognoser#remove-2024-03-13T06%3A04%3A07.714Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://arbetsformedlingen.se/#datasetYrkesprognoser#remove-2024-03-13T06%3A04%3A07.714Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://arbetsformedlingen.se/#datasetYrkesprognoser>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.714Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://arbetsformedlingen.se/#distributionYrkesprognoser#remove-2024-03-13T06%3A04%3A07.720Z>.
-<https://arbetsformedlingen.se/#distributionYrkesprognoser#remove-2024-03-13T06%3A04%3A07.720Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://arbetsformedlingen.se/#distributionYrkesprognoser#remove-2024-03-13T06%3A04%3A07.720Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://arbetsformedlingen.se/#distributionYrkesprognoser>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.720Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/BARO_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z>.
-<https://opendata-download.smhi.se/svar/BARO_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/BARO_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/BARO_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.785Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Delavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z>.
-<https://opendata-download.smhi.se/svar/Delavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Delavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.785Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Delavrinningsomraden_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.785Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Huvudavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Huvudavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Huvudavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Huvudavrinningsomraden_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Kustvattenomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Kustvattenomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Kustvattenomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Kustvattenomraden_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Utloppspunkter_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Utloppspunkter_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Utloppspunkter_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Utloppspunkter_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Vattendistrikt_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Vattendistrikt_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Vattendistrikt_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Vattendistrikt_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Vattenforekomstavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Vattenforekomstavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Vattenforekomstavrinningsomraden_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Vattenforekomstavrinningsomraden_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Vattenforekomster_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-download.smhi.se/svar/Vattenforekomster_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Vattenforekomster_2022.zip#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Vattenforekomster_2022.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wfs?service=wfs&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wfs?service=wfs&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wfs?service=wfs&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wfs?service=wfs&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wms?service=wms&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z>.
-<https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wms?service=wms&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wms?service=wms&request=getcapabilities#remove-2024-03-13T06%3A04%3A07.786Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-view.smhi.se/SMHI_vatten/Vattenforekomster_2022/wms?service=wms&request=getcapabilities>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.786Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523dataset#remove-2024-03-13T06%3A04%3A07.858Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523dataset#remove-2024-03-13T06%3A04%3A07.858Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523dataset#remove-2024-03-13T06%3A04%3A07.858Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523dataset>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.858Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523distribution#remove-2024-03-13T06%3A04%3A07.858Z>.
-<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523distribution#remove-2024-03-13T06%3A04%3A07.858Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523distribution#remove-2024-03-13T06%3A04%3A07.858Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www7.skatteverket.se/portal/apier-och-oppna-data/utvecklarportalen/api/fastighetstaxering-taxeringsuppgifter/2.6.0/%2523distribution>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-13T06:04:07.858Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

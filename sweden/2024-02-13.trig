@@ -14124,27 +14124,27 @@ _:b0__66921 a <http://purl.org/dc/terms/ProvenanceStatement>;
 }
 
 <feed> <https://w3id.org/tree#member> <https://katalog.lund.se/store/1/resource/52#remove-54>.
-<https://katalog.lund.se/store/1/resource/52#remove-54> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://katalog.lund.se/store/1/resource/52#remove-54> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://katalog.lund.se/store/1/resource/52>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-13T06:03:54.871Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://katalog.lund.se/store/1/resource/54#remove-54>.
-<https://katalog.lund.se/store/1/resource/54#remove-54> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://katalog.lund.se/store/1/resource/54#remove-54> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://katalog.lund.se/store/1/resource/54>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-13T06:03:54.872Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://katalog.lund.se/store/1/resource/56#remove-54>.
-<https://katalog.lund.se/store/1/resource/56#remove-54> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://katalog.lund.se/store/1/resource/56#remove-54> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://katalog.lund.se/store/1/resource/56>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-13T06:03:54.872Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://katalog.lund.se/store/1/resource/58#remove-54>.
-<https://katalog.lund.se/store/1/resource/58#remove-54> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://katalog.lund.se/store/1/resource/58#remove-54> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://katalog.lund.se/store/1/resource/58>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-13T06:03:54.872Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://katalog.lund.se/store/1/resource/60#remove-54>.
-<https://katalog.lund.se/store/1/resource/60#remove-54> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://katalog.lund.se/store/1/resource/60#remove-54> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://katalog.lund.se/store/1/resource/60>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-13T06:03:54.872Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

@@ -8779,102 +8779,102 @@ _:b0__80372 <http://www.w3.org/ns/dcat#endDate> "2021-11-01"^^<http://www.w3.org
 }
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/43795#remove-2024-03-16T06%3A04%3A01.928Z>.
-<https://catalog.goteborg.se/store/6/resource/43795#remove-2024-03-16T06%3A04%3A01.928Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/43795#remove-2024-03-16T06%3A04%3A01.928Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/43795>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.928Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/46008#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/46008#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/46008#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/46008>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/46971#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/46971#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/46971#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/46971>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/48701#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/48701#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/48701#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/48701>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/50025#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/50025#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/50025#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/50025>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/53113#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/53113#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/53113#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/53113>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/53115#remove-2024-03-16T06%3A04%3A01.933Z>.
-<https://catalog.goteborg.se/store/6/resource/53115#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/53115#remove-2024-03-16T06%3A04%3A01.933Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/53115>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.933Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/53117#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/53117#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/53117#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/53117>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/54526#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/54526#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/54526#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/54526>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/56686#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/56686#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/56686#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/56686>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/58561#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/58561#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/58561#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/58561>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/60522#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/60522#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/60522#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/60522>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.goteborg.se/store/6/resource/63250#remove-2024-03-16T06%3A04%3A01.934Z>.
-<https://catalog.goteborg.se/store/6/resource/63250#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.goteborg.se/store/6/resource/63250#remove-2024-03-16T06%3A04%3A01.934Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.goteborg.se/store/6/resource/63250>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.934Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://catalog.molndal.se/store/1/resource/46#remove-2024-03-16T06%3A04%3A01.937Z>.
-<https://catalog.molndal.se/store/1/resource/46#remove-2024-03-16T06%3A04%3A01.937Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.molndal.se/store/1/resource/46#remove-2024-03-16T06%3A04%3A01.937Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.molndal.se/store/1/resource/46>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.937Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/03ca6260-f61e-4d6e-af4c-fe4267a9eb49#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/03ca6260-f61e-4d6e-af4c-fe4267a9eb49#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/03ca6260-f61e-4d6e-af4c-fe4267a9eb49#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/03ca6260-f61e-4d6e-af4c-fe4267a9eb49>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/1dbd8bf6-6896-4a73-903c-c37047cce6b2#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/1dbd8bf6-6896-4a73-903c-c37047cce6b2#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/1dbd8bf6-6896-4a73-903c-c37047cce6b2#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/1dbd8bf6-6896-4a73-903c-c37047cce6b2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/878a6b48-d8b8-4b57-a87f-fa55a5b261f6#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/878a6b48-d8b8-4b57-a87f-fa55a5b261f6#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/878a6b48-d8b8-4b57-a87f-fa55a5b261f6#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/878a6b48-d8b8-4b57-a87f-fa55a5b261f6>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/bfaaf85f-8f2f-4655-b364-389d2809e738#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/bfaaf85f-8f2f-4655-b364-389d2809e738#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/bfaaf85f-8f2f-4655-b364-389d2809e738#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/bfaaf85f-8f2f-4655-b364-389d2809e738>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/e970a39f-1e8d-4c9c-b6f4-99194ec03298#remove-2024-03-16T06%3A04%3A01.944Z>.
-<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/e970a39f-1e8d-4c9c-b6f4-99194ec03298#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/e970a39f-1e8d-4c9c-b6f4-99194ec03298#remove-2024-03-16T06%3A04%3A01.944Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://ckan-malmo.dataplatform.se/dataset/dbc421bc-23c7-47d4-a427-f6e6588c4120/resource/e970a39f-1e8d-4c9c-b6f4-99194ec03298>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-16T06:04:01.944Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

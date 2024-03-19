@@ -8524,32 +8524,32 @@ _:b0__47896 <http://www.w3.org/ns/dcat#hadRole> <http://inspire.ec.europa.eu/met
 }
 
 <feed> <https://w3id.org/tree#member> <https://catalog.raa.se/store/1/resource/179#remove-2024-03-08T06%3A03%3A48.216Z>.
-<https://catalog.raa.se/store/1/resource/179#remove-2024-03-08T06%3A03%3A48.216Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://catalog.raa.se/store/1/resource/179#remove-2024-03-08T06%3A03%3A48.216Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://catalog.raa.se/store/1/resource/179>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.216Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://opendata-download.smhi.se/svar/Delavrinningsomraden_2016.zip#remove-2024-03-08T06%3A03%3A48.284Z>.
-<https://opendata-download.smhi.se/svar/Delavrinningsomraden_2016.zip#remove-2024-03-08T06%3A03%3A48.284Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://opendata-download.smhi.se/svar/Delavrinningsomraden_2016.zip#remove-2024-03-08T06%3A03%3A48.284Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://opendata-download.smhi.se/svar/Delavrinningsomraden_2016.zip>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.284Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://skatteverket.entryscape.net/store/9/resource/11#remove-2024-03-08T06%3A03%3A48.320Z>.
-<https://skatteverket.entryscape.net/store/9/resource/11#remove-2024-03-08T06%3A03%3A48.320Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://skatteverket.entryscape.net/store/9/resource/11#remove-2024-03-08T06%3A03%3A48.320Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://skatteverket.entryscape.net/store/9/resource/11>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.320Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://skatteverket.entryscape.net/store/9/resource/1307#remove-2024-03-08T06%3A03%3A48.322Z>.
-<https://skatteverket.entryscape.net/store/9/resource/1307#remove-2024-03-08T06%3A03%3A48.322Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://skatteverket.entryscape.net/store/9/resource/1307#remove-2024-03-08T06%3A03%3A48.322Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://skatteverket.entryscape.net/store/9/resource/1307>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.322Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://skatteverket.entryscape.net/store/9/resource/1315#remove-2024-03-08T06%3A03%3A48.322Z>.
-<https://skatteverket.entryscape.net/store/9/resource/1315#remove-2024-03-08T06%3A03%3A48.322Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://skatteverket.entryscape.net/store/9/resource/1315#remove-2024-03-08T06%3A03%3A48.322Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://skatteverket.entryscape.net/store/9/resource/1315>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.322Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://skatteverket.entryscape.net/store/9/resource/280#remove-2024-03-08T06%3A03%3A48.323Z>.
-<https://skatteverket.entryscape.net/store/9/resource/280#remove-2024-03-08T06%3A03%3A48.323Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://skatteverket.entryscape.net/store/9/resource/280#remove-2024-03-08T06%3A03%3A48.323Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://skatteverket.entryscape.net/store/9/resource/280>;
     <https://www.w3.org/ns/activitystreams#published> "2024-03-08T06:03:48.323Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 

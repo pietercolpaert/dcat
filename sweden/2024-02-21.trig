@@ -11683,32 +11683,32 @@ _:b0__81322 <http://www.w3.org/ns/dcat#endDate> "2022-12-31"^^<http://www.w3.org
 }
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#remove-2024-02-21T06%3A04%3A01.915Z>.
-<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#remove-2024-02-21T06%3A04%3A01.915Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#remove-2024-02-21T06%3A04%3A01.915Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.915Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/1#remove-2024-02-21T06%3A04%3A01.920Z>.
-<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/1#remove-2024-02-21T06%3A04%3A01.920Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/1#remove-2024-02-21T06%3A04%3A01.920Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/1>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.920Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/2#remove-2024-02-21T06%3A04%3A01.920Z>.
-<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/2#remove-2024-02-21T06%3A04%3A01.920Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/2#remove-2024-02-21T06%3A04%3A01.920Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://resources.stockholm.se/data/35bc8e90-ae56-4d65-a573-15a948f7b641#HTTP:Nedladdning:data/2>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.920Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.json#remove-2024-02-21T06%3A04%3A01.953Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.json#remove-2024-02-21T06%3A04%3A01.953Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.json#remove-2024-02-21T06%3A04%3A01.953Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.953Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.xlsx#remove-2024-02-21T06%3A04%3A01.954Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.xlsx#remove-2024-02-21T06%3A04%3A01.954Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.xlsx#remove-2024-02-21T06%3A04%3A01.954Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/ASEAntalMottagareTimmarDecKon.xlsx>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.954Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
 <feed> <https://w3id.org/tree#member> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/meta.json#remove-2024-02-21T06%3A04%3A01.954Z>.
-<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/meta.json#remove-2024-02-21T06%3A04%3A01.954Z> a <https://www.w3.org/ns/activitystreams#Remove>;
+<https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/meta.json#remove-2024-02-21T06%3A04%3A01.954Z> a <https://www.w3.org/ns/activitystreams#Delete>;
     <https://www.w3.org/ns/activitystreams#object> <https://www.forsakringskassan.se/fk_apps/MEKAREST/public/v1/ase-mottagare/meta.json>;
     <https://www.w3.org/ns/activitystreams#published> "2024-02-21T06:04:01.954Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
 
