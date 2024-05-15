@@ -5,6 +5,7 @@
 @prefix ldes: <https://w3id.org/ldes#>.
 
 <feed> a ldes:EventStream ;
+    tree:shape <https://semiceu.github.io/LDES-DCAT-AP-feeds/shape.ttl#ActivityShape> ;
     ldes:timestampPath as:published ;
     ldes:versionOfPath as:object ;
     tree:view <feed.ttl> .
