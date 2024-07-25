@@ -1,14 +1,14 @@
-2024/07/24-06:04:25.581962 7fc2fbfff640 Recovering log #726
-2024/07/24-06:04:25.582598 7fc2fbfff640 Level-0 table #729: started
-2024/07/24-06:04:25.586207 7fc2fbfff640 Level-0 table #729: 35456 bytes OK
-2024/07/24-06:04:25.587929 7fc2fbfff640 Delete type=0 #726
-2024/07/24-06:04:25.587981 7fc2fbfff640 Delete type=3 #724
-2024/07/24-06:04:30.480592 7fc2eaffe640 Moved #729 to level-1 35456 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2024/07/24-06:04:30.509472 7fc2eaffe640 Compacting 1@1 + 2@2 files
-2024/07/24-06:04:30.542329 7fc2eaffe640 Generated table #731@1: 45020 keys, 2178583 bytes
-2024/07/24-06:04:30.545058 7fc2eaffe640 Generated table #732@1: 1811 keys, 105387 bytes
-2024/07/24-06:04:30.545074 7fc2eaffe640 Compacted 1@1 + 2@2 files => 2283970 bytes
-2024/07/24-06:04:30.545558 7fc2eaffe640 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/07/24-06:04:30.545640 7fc2eaffe640 Delete type=2 #719
-2024/07/24-06:04:30.545718 7fc2eaffe640 Delete type=2 #729
-2024/07/24-06:04:30.545847 7fc2eaffe640 Delete type=2 #727
+2024/07/25-06:04:36.028958 7fe2c37ff640 Recovering log #730
+2024/07/25-06:04:36.029632 7fe2c37ff640 Level-0 table #734: started
+2024/07/25-06:04:36.034185 7fe2c37ff640 Level-0 table #734: 36142 bytes OK
+2024/07/25-06:04:36.036209 7fe2c37ff640 Delete type=3 #728
+2024/07/25-06:04:36.036257 7fe2c37ff640 Delete type=0 #730
+2024/07/25-06:04:40.653923 7fe2babff640 Moved #734 to level-1 36142 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2024/07/25-06:04:40.681848 7fe2babff640 Compacting 1@1 + 2@2 files
+2024/07/25-06:04:40.729934 7fe2babff640 Generated table #736@1: 45016 keys, 2178529 bytes
+2024/07/25-06:04:40.731933 7fe2babff640 Generated table #737@1: 1814 keys, 105765 bytes
+2024/07/25-06:04:40.731944 7fe2babff640 Compacted 1@1 + 2@2 files => 2284294 bytes
+2024/07/25-06:04:40.733056 7fe2babff640 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/25-06:04:40.733129 7fe2babff640 Delete type=2 #734
+2024/07/25-06:04:40.733198 7fe2babff640 Delete type=2 #732
+2024/07/25-06:04:40.733380 7fe2babff640 Delete type=2 #731
