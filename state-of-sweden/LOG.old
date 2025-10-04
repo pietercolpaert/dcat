@@ -1,13 +1,10 @@
-2025/10/02-06:05:38.663915 7f7afebfd6c0 Recovering log #2838
-2025/10/02-06:05:38.665317 7f7afebfd6c0 Level-0 table #2842: started
-2025/10/02-06:05:38.679460 7f7afebfd6c0 Level-0 table #2842: 101664 bytes OK
-2025/10/02-06:05:38.683768 7f7afebfd6c0 Delete type=3 #2836
-2025/10/02-06:05:38.683816 7f7afebfd6c0 Delete type=0 #2838
-2025/10/02-06:05:43.119933 7f7afd7ff6c0 Compacting 1@0 + 2@1 files
-2025/10/02-06:05:43.157896 7f7afd7ff6c0 Generated table #2844@0: 41564 keys, 2174440 bytes
-2025/10/02-06:05:43.170619 7f7afd7ff6c0 Generated table #2845@0: 17781 keys, 790100 bytes
-2025/10/02-06:05:43.170633 7f7afd7ff6c0 Compacted 1@0 + 2@1 files => 2964540 bytes
-2025/10/02-06:05:43.171147 7f7afd7ff6c0 compacted to: files[ 0 2 1 0 0 0 0 ]
-2025/10/02-06:05:43.171283 7f7afd7ff6c0 Delete type=2 #2839
-2025/10/02-06:05:43.171707 7f7afd7ff6c0 Delete type=2 #2842
-2025/10/02-06:05:43.171790 7f7afd7ff6c0 Delete type=2 #2840
+2025/10/03-06:05:28.841540 7fc7fcfbf6c0 Recovering log #2843
+2025/10/03-06:05:28.842038 7fc7fcfbf6c0 Level-0 table #2847: started
+2025/10/03-06:05:28.850347 7fc7fcfbf6c0 Level-0 table #2847: 37814 bytes OK
+2025/10/03-06:05:28.853696 7fc7fcfbf6c0 Delete type=0 #2843
+2025/10/03-06:05:28.853748 7fc7fcfbf6c0 Delete type=3 #2841
+2025/10/03-06:05:33.308970 7fc7ee7fc6c0 Compacting 1@0 + 2@1 files
+2025/10/03-06:05:33.345019 7fc7ee7fc6c0 Generated table #2849@0: 41508 keys, 2172242 bytes
+2025/10/03-06:05:33.357536 7fc7ee7fc6c0 Generated table #2850@0: 17847 keys, 793904 bytes
+2025/10/03-06:05:33.357547 7fc7ee7fc6c0 Compacted 1@0 + 2@1 files => 2966146 bytes
+2025/10/03-06:05:33.357949 7fc7ee7fc6c0 compacted to: files[ 0 2 1 0 0 0 0 ]
