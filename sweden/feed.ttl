@@ -7861,3 +7861,16 @@
         tree:value  "2025-11-10T23:59:59Z"^^xsd:dateTime ;
         tree:node <2025-11-10.trig>
     ] .
+
+<feed.ttl> tree:relation [
+        a tree:GreaterThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value "2025-11-11T00:00:00Z"^^xsd:dateTime ;
+        tree:node <2025-11-11.trig>
+    ] ,
+    [
+        a tree:LessThanOrEqualToRelation ;
+        tree:path as:published ;
+        tree:value  "2025-11-11T23:59:59Z"^^xsd:dateTime ;
+        tree:node <2025-11-11.trig>
+    ] .
