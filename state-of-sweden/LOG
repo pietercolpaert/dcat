@@ -1,11 +1,17 @@
-2025/11/30-06:05:43.924501 7fc5f6ffd6c0 Recovering log #3136
-2025/11/30-06:05:43.924961 7fc5f6ffd6c0 Level-0 table #3140: started
-2025/11/30-06:05:43.931375 7fc5f6ffd6c0 Level-0 table #3140: 33766 bytes OK
-2025/11/30-06:05:43.940852 7fc5f6ffd6c0 Delete type=3 #3134
-2025/11/30-06:05:43.940908 7fc5f6ffd6c0 Delete type=0 #3136
-2025/11/30-06:05:48.332538 7fc5f57ff6c0 Moved #3140 to level-1 33766 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2025/11/30-06:05:48.384064 7fc5f57ff6c0 Compacting 1@1 + 2@2 files
-2025/11/30-06:05:48.413958 7fc5f57ff6c0 Generated table #3142@1: 42423 keys, 2174422 bytes
-2025/11/30-06:05:48.434854 7fc5f57ff6c0 Generated table #3143@1: 20667 keys, 1042639 bytes
-2025/11/30-06:05:48.434867 7fc5f57ff6c0 Compacted 1@1 + 2@2 files => 3217061 bytes
-2025/11/30-06:05:48.435581 7fc5f57ff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/12/01-06:06:09.391388 7fcdeefbd6c0 Recovering log #3141
+2025/12/01-06:06:09.391866 7fcdeefbd6c0 Level-0 table #3145: started
+2025/12/01-06:06:09.395526 7fcdeefbd6c0 Level-0 table #3145: 33474 bytes OK
+2025/12/01-06:06:09.398267 7fcdeefbd6c0 Delete type=2 #3138
+2025/12/01-06:06:09.398580 7fcdeefbd6c0 Delete type=3 #3139
+2025/12/01-06:06:09.398626 7fcdeefbd6c0 Delete type=0 #3141
+2025/12/01-06:06:09.398680 7fcdeefbd6c0 Delete type=2 #3137
+2025/12/01-06:06:09.399201 7fcdeefbd6c0 Delete type=2 #3140
+2025/12/01-06:06:14.153490 7fcdee3ff6c0 Moved #3145 to level-1 33474 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2025/12/01-06:06:14.211196 7fcdee3ff6c0 Compacting 1@1 + 2@2 files
+2025/12/01-06:06:14.255747 7fcdee3ff6c0 Generated table #3147@1: 42338 keys, 2173561 bytes
+2025/12/01-06:06:14.273904 7fcdee3ff6c0 Generated table #3148@1: 20756 keys, 1045830 bytes
+2025/12/01-06:06:14.273916 7fcdee3ff6c0 Compacted 1@1 + 2@2 files => 3219391 bytes
+2025/12/01-06:06:14.274492 7fcdee3ff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/12/01-06:06:14.274608 7fcdee3ff6c0 Delete type=2 #3143
+2025/12/01-06:06:14.274901 7fcdee3ff6c0 Delete type=2 #3145
+2025/12/01-06:06:14.275058 7fcdee3ff6c0 Delete type=2 #3142
