@@ -1,17 +1,14 @@
-2025/12/01-06:06:09.391388 7fcdeefbd6c0 Recovering log #3141
-2025/12/01-06:06:09.391866 7fcdeefbd6c0 Level-0 table #3145: started
-2025/12/01-06:06:09.395526 7fcdeefbd6c0 Level-0 table #3145: 33474 bytes OK
-2025/12/01-06:06:09.398267 7fcdeefbd6c0 Delete type=2 #3138
-2025/12/01-06:06:09.398580 7fcdeefbd6c0 Delete type=3 #3139
-2025/12/01-06:06:09.398626 7fcdeefbd6c0 Delete type=0 #3141
-2025/12/01-06:06:09.398680 7fcdeefbd6c0 Delete type=2 #3137
-2025/12/01-06:06:09.399201 7fcdeefbd6c0 Delete type=2 #3140
-2025/12/01-06:06:14.153490 7fcdee3ff6c0 Moved #3145 to level-1 33474 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2025/12/01-06:06:14.211196 7fcdee3ff6c0 Compacting 1@1 + 2@2 files
-2025/12/01-06:06:14.255747 7fcdee3ff6c0 Generated table #3147@1: 42338 keys, 2173561 bytes
-2025/12/01-06:06:14.273904 7fcdee3ff6c0 Generated table #3148@1: 20756 keys, 1045830 bytes
-2025/12/01-06:06:14.273916 7fcdee3ff6c0 Compacted 1@1 + 2@2 files => 3219391 bytes
-2025/12/01-06:06:14.274492 7fcdee3ff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2025/12/01-06:06:14.274608 7fcdee3ff6c0 Delete type=2 #3143
-2025/12/01-06:06:14.274901 7fcdee3ff6c0 Delete type=2 #3145
-2025/12/01-06:06:14.275058 7fcdee3ff6c0 Delete type=2 #3142
+2025/12/02-06:06:10.161265 7ffa0abff6c0 Recovering log #3146
+2025/12/02-06:06:10.161811 7ffa0abff6c0 Level-0 table #3150: started
+2025/12/02-06:06:10.165424 7ffa0abff6c0 Level-0 table #3150: 40883 bytes OK
+2025/12/02-06:06:10.169270 7ffa0abff6c0 Delete type=0 #3146
+2025/12/02-06:06:10.169343 7ffa0abff6c0 Delete type=3 #3144
+2025/12/02-06:06:14.773695 7ff76bfff6c0 Moved #3150 to level-1 40883 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2025/12/02-06:06:14.807610 7ff76bfff6c0 Compacting 1@1 + 2@2 files
+2025/12/02-06:06:14.840854 7ff76bfff6c0 Generated table #3152@1: 42340 keys, 2175044 bytes
+2025/12/02-06:06:14.862608 7ff76bfff6c0 Generated table #3153@1: 20756 keys, 1045826 bytes
+2025/12/02-06:06:14.862622 7ff76bfff6c0 Compacted 1@1 + 2@2 files => 3220870 bytes
+2025/12/02-06:06:14.863325 7ff76bfff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/12/02-06:06:14.863507 7ff76bfff6c0 Delete type=2 #3147
+2025/12/02-06:06:14.864093 7ff76bfff6c0 Delete type=2 #3148
+2025/12/02-06:06:14.864399 7ff76bfff6c0 Delete type=2 #3150
