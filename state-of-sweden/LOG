@@ -1,14 +1,14 @@
-2026/04/02-06:26:57.185886 7fed5bfbf6c0 Recovering log #3613
-2026/04/02-06:26:57.187547 7fed5bfbf6c0 Level-0 table #3617: started
-2026/04/02-06:26:57.195763 7fed5bfbf6c0 Level-0 table #3617: 92205 bytes OK
-2026/04/02-06:26:57.199190 7fed5bfbf6c0 Delete type=3 #3611
-2026/04/02-06:26:57.199225 7fed5bfbf6c0 Delete type=0 #3613
-2026/04/02-06:27:02.454356 7fed59bff6c0 Moved #3617 to level-1 92205 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2026/04/02-06:27:02.493262 7fed59bff6c0 Compacting 1@1 + 2@2 files
-2026/04/02-06:27:02.531907 7fed59bff6c0 Generated table #3619@1: 41642 keys, 2174001 bytes
-2026/04/02-06:27:02.552122 7fed59bff6c0 Generated table #3620@1: 23568 keys, 1179975 bytes
-2026/04/02-06:27:02.552135 7fed59bff6c0 Compacted 1@1 + 2@2 files => 3353976 bytes
-2026/04/02-06:27:02.552698 7fed59bff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/04/02-06:27:02.552802 7fed59bff6c0 Delete type=2 #3614
-2026/04/02-06:27:02.553045 7fed59bff6c0 Delete type=2 #3615
-2026/04/02-06:27:02.553177 7fed59bff6c0 Delete type=2 #3617
+2026/04/03-06:26:55.410446 7fabda7be6c0 Recovering log #3618
+2026/04/03-06:26:55.411078 7fabda7be6c0 Level-0 table #3622: started
+2026/04/03-06:26:55.418207 7fabda7be6c0 Level-0 table #3622: 47140 bytes OK
+2026/04/03-06:26:55.420782 7fabda7be6c0 Delete type=0 #3618
+2026/04/03-06:26:55.420835 7fabda7be6c0 Delete type=3 #3616
+2026/04/03-06:27:00.003284 7fa93bfff6c0 Moved #3622 to level-1 47140 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2026/04/03-06:27:00.057505 7fa93bfff6c0 Compacting 1@1 + 2@2 files
+2026/04/03-06:27:00.095102 7fa93bfff6c0 Generated table #3624@1: 41622 keys, 2172921 bytes
+2026/04/03-06:27:00.115167 7fa93bfff6c0 Generated table #3625@1: 23596 keys, 1180936 bytes
+2026/04/03-06:27:00.115179 7fa93bfff6c0 Compacted 1@1 + 2@2 files => 3353857 bytes
+2026/04/03-06:27:00.115722 7fa93bfff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/03-06:27:00.115799 7fa93bfff6c0 Delete type=2 #3620
+2026/04/03-06:27:00.115974 7fa93bfff6c0 Delete type=2 #3622
+2026/04/03-06:27:00.116054 7fa93bfff6c0 Delete type=2 #3619
