@@ -1,14 +1,14 @@
-2026/05/09-06:44:19.604986 7ff11e7be6c0 Recovering log #3762
-2026/05/09-06:44:19.605747 7ff11e7be6c0 Level-0 table #3766: started
-2026/05/09-06:44:19.615833 7ff11e7be6c0 Level-0 table #3766: 51650 bytes OK
-2026/05/09-06:44:19.623411 7ff11e7be6c0 Delete type=3 #3760
-2026/05/09-06:44:19.623464 7ff11e7be6c0 Delete type=0 #3762
-2026/05/09-06:44:24.382097 7fee7ffff6c0 Moved #3766 to level-1 51650 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2026/05/09-06:44:24.454920 7fee7ffff6c0 Compacting 1@1 + 2@2 files
-2026/05/09-06:44:24.499863 7fee7ffff6c0 Generated table #3768@1: 41587 keys, 2173868 bytes
-2026/05/09-06:44:24.519698 7fee7ffff6c0 Generated table #3769@1: 23615 keys, 1194945 bytes
-2026/05/09-06:44:24.519712 7fee7ffff6c0 Compacted 1@1 + 2@2 files => 3368813 bytes
-2026/05/09-06:44:24.521059 7fee7ffff6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/05/09-06:44:24.521149 7fee7ffff6c0 Delete type=2 #3766
-2026/05/09-06:44:24.521271 7fee7ffff6c0 Delete type=2 #3763
-2026/05/09-06:44:24.521580 7fee7ffff6c0 Delete type=2 #3764
+2026/05/10-06:55:50.082896 7f3bd4bff6c0 Recovering log #3767
+2026/05/10-06:55:50.083794 7f3bd4bff6c0 Level-0 table #3771: started
+2026/05/10-06:55:50.090066 7f3bd4bff6c0 Level-0 table #3771: 59503 bytes OK
+2026/05/10-06:55:50.091778 7f3bd4bff6c0 Delete type=0 #3767
+2026/05/10-06:55:50.091828 7f3bd4bff6c0 Delete type=3 #3765
+2026/05/10-06:55:54.782511 7f3b9effd6c0 Moved #3771 to level-1 59503 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2026/05/10-06:55:54.832478 7f3b9effd6c0 Compacting 1@1 + 2@2 files
+2026/05/10-06:55:54.865744 7f3b9effd6c0 Generated table #3773@1: 41584 keys, 2172392 bytes
+2026/05/10-06:55:54.889493 7f3b9effd6c0 Generated table #3774@1: 23622 keys, 1195428 bytes
+2026/05/10-06:55:54.889504 7f3b9effd6c0 Compacted 1@1 + 2@2 files => 3367820 bytes
+2026/05/10-06:55:54.889834 7f3b9effd6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/10-06:55:54.889922 7f3b9effd6c0 Delete type=2 #3768
+2026/05/10-06:55:54.890149 7f3b9effd6c0 Delete type=2 #3769
+2026/05/10-06:55:54.890279 7f3b9effd6c0 Delete type=2 #3771
