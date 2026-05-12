@@ -1,14 +1,14 @@
-2026/05/10-06:55:50.082896 7f3bd4bff6c0 Recovering log #3767
-2026/05/10-06:55:50.083794 7f3bd4bff6c0 Level-0 table #3771: started
-2026/05/10-06:55:50.090066 7f3bd4bff6c0 Level-0 table #3771: 59503 bytes OK
-2026/05/10-06:55:50.091778 7f3bd4bff6c0 Delete type=0 #3767
-2026/05/10-06:55:50.091828 7f3bd4bff6c0 Delete type=3 #3765
-2026/05/10-06:55:54.782511 7f3b9effd6c0 Moved #3771 to level-1 59503 bytes OK: files[ 0 1 2 0 0 0 0 ]
-2026/05/10-06:55:54.832478 7f3b9effd6c0 Compacting 1@1 + 2@2 files
-2026/05/10-06:55:54.865744 7f3b9effd6c0 Generated table #3773@1: 41584 keys, 2172392 bytes
-2026/05/10-06:55:54.889493 7f3b9effd6c0 Generated table #3774@1: 23622 keys, 1195428 bytes
-2026/05/10-06:55:54.889504 7f3b9effd6c0 Compacted 1@1 + 2@2 files => 3367820 bytes
-2026/05/10-06:55:54.889834 7f3b9effd6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
-2026/05/10-06:55:54.889922 7f3b9effd6c0 Delete type=2 #3768
-2026/05/10-06:55:54.890149 7f3b9effd6c0 Delete type=2 #3769
-2026/05/10-06:55:54.890279 7f3b9effd6c0 Delete type=2 #3771
+2026/05/11-07:12:30.625246 7fcf9cfbf6c0 Recovering log #3772
+2026/05/11-07:12:30.625977 7fcf9cfbf6c0 Level-0 table #3776: started
+2026/05/11-07:12:30.633087 7fcf9cfbf6c0 Level-0 table #3776: 42733 bytes OK
+2026/05/11-07:12:30.636163 7fcf9cfbf6c0 Delete type=3 #3770
+2026/05/11-07:12:30.636210 7fcf9cfbf6c0 Delete type=0 #3772
+2026/05/11-07:12:35.895890 7fcf8e7fc6c0 Moved #3776 to level-1 42733 bytes OK: files[ 0 1 2 0 0 0 0 ]
+2026/05/11-07:12:35.946311 7fcf8e7fc6c0 Compacting 1@1 + 2@2 files
+2026/05/11-07:12:35.985834 7fcf8e7fc6c0 Generated table #3778@1: 41583 keys, 2172342 bytes
+2026/05/11-07:12:36.008288 7fcf8e7fc6c0 Generated table #3779@1: 23680 keys, 1197612 bytes
+2026/05/11-07:12:36.008300 7fcf8e7fc6c0 Compacted 1@1 + 2@2 files => 3369954 bytes
+2026/05/11-07:12:36.008695 7fcf8e7fc6c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/11-07:12:36.008780 7fcf8e7fc6c0 Delete type=2 #3776
+2026/05/11-07:12:36.008867 7fcf8e7fc6c0 Delete type=2 #3774
+2026/05/11-07:12:36.009025 7fcf8e7fc6c0 Delete type=2 #3773
